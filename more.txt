@@ -1,0 +1,3 @@
+Task 20: Login to collaborator account. Add text in the other branch text file. Then approve it as a reviewer.
+Question 6: is it possible for the collaborator or repository owner to merge it to the main branch? - Answer / Screenshot
+Question 7: What is the use of Allow force pushes? and its options? - Screenshot
